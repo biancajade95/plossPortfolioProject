@@ -4,7 +4,6 @@ $color-keppelGreen : #5DA399;
 $color-darkCyan : #42858C;
 $color-onyx : #35393C;
 
-
 body {
     font-family: "Special Elite", "sans-serif";
     background-image: linear-gradient($color-onyx, $color-hookersGreen, $color-robbinEgg);
@@ -49,4 +48,8 @@ img ~ h5 {
 
 hr {
     border: 1px dashed $color-robbinEgg;
+}
+
+img.profilePic {
+    border: 5px dashed $color-robbinEgg;
 }
