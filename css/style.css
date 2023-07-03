@@ -1,0 +1,47 @@
+
+
+body {
+    font-family: "Special Elite", "sans-serif";
+    background-image: linear-gradient(#35393C, #397367,#63CCCA);
+}
+
+header {
+    font-family: "Indie Flower", "sans-serif";
+    background-image: linear-gradient(#397367, #35393C);
+    color: beige;
+}
+
+.header-ribbon {
+    font-family: "Indie Flower", "sans-serif";
+    background-color: #42858C;
+    color: beige;
+}
+
+h3 {
+    text-align: center;
+}
+
+img ~ h5 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+} 
+
+.card {
+    background-color: bisque;
+}
+
+#centerPaper {
+    background-color: bisque;
+}
+
+#LHPapers {
+
+}
+
+#RHPapers {
+
+}
+
+hr {
+    border: 1px dashed #63CCCA;
+}
